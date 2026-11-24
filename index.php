@@ -10,9 +10,4 @@ include 'includes/header.php';
     <p>Packs, poles, lights, and essentials for day hikes and weekend adventures.</p>
     <a class="btn btn-primary" href="catalog.php">Shop the Catalog</a>
 </section>
-
-<div class="notice">
-    <strong>Under construction:</strong> The catalog and shopping cart pages are being built.
-    Products will be loaded from the <code>online_store</code> database in Week 3.
-</div>
 <?php include 'includes/footer.php'; ?>

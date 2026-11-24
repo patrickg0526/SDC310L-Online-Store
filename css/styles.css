@@ -48,6 +48,12 @@ main.container { padding-top: 28px; padding-bottom: 40px; min-height: calc(100vh
     padding: 12px 16px; margin-bottom: 20px; border-radius: 4px;
 }
 
+.notice-success { background: #edf7ef; border-left-color: var(--green); }
+.notice-error { background: #fbecec; border-left-color: var(--red); }
+
+.inline-form { display: inline; margin: 0; }
+.data-table .qty { font-weight: 700; }
+
 /* Buttons */
 .btn {
     display: inline-block; border: 1px solid var(--border); background: #fff; color: var(--text);
